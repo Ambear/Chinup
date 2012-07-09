@@ -4,7 +4,7 @@
 	$_CONFIG['site']['maitenance'] = false;
 	
 	/* General SQL Configuration */
-	$_CONFIG['sql']['host'] = "";
+	$_CONFIG['sql']['host'] = "localhost";
 	$_CONFIG['sql']['user'] = "";
 	$_CONFIG['sql']['password'] = "";
 	$_CONFIG['sql']['database'] = "";
