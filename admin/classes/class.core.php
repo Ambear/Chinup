@@ -1,3 +1,5 @@
 <?PHP
+	class core{
 	
+	}
 ?>
